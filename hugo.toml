@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/' # The top-level domain for production
+languageCode = 'en-us' # Language code
+title = "Haad Bhutta's Website" # The title of the website
+author = "Haad Bhutta" 
+theme = "mytheme"
+enableRobotsTXT = true
+
+[params] # .Site.Params
+    copyright-year = '2025' # index .Site.Params "copyright-year"
+    [params.author] # .Site.Params.author
+        name = "Haad Bhutta" # .name
+        email = "haadbhutta@gmail.com" # .email
+    math = true # Math support (MathJax)
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+

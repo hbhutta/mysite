@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metadata on Haad Bhutta&#39;s Website</title>
+    <link>http://localhost:1313/tags/metadata/</link>
+    <description>Recent content in Metadata on Haad Bhutta&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>haadbhutta@gmail.com (Haad Bhutta)</managingEditor>
+    <webMaster>haadbhutta@gmail.com (Haad Bhutta)</webMaster>
+    <lastBuildDate>Sat, 29 Mar 2025 10:10:11 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/metadata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lots of Code</title>
+      <link>http://localhost:1313/blog/code/</link>
+      <pubDate>Sat, 29 Mar 2025 10:10:11 -0700</pubDate><author>haadbhutta@gmail.com (Haad Bhutta)</author>
+      <guid>http://localhost:1313/blog/code/</guid>
+      <description>&lt;p&gt;this is &lt;code&gt;inline code&lt;/code&gt;&#xA;this is &lt;code&gt;python(&#39;hello&#39;)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-typescript&#34; data-lang=&#34;typescript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;interface&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Foo&lt;/span&gt; {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;bar&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;baz&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

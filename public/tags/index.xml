@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Haad Bhutta&#39;s Website</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Haad Bhutta&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>haadbhutta@gmail.com (Haad Bhutta)</managingEditor>
+    <webMaster>haadbhutta@gmail.com (Haad Bhutta)</webMaster>
+    <lastBuildDate>Sat, 29 Mar 2025 10:10:11 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/tags/golang/</link>
+      <pubDate>Sat, 29 Mar 2025 10:10:11 -0700</pubDate><author>haadbhutta@gmail.com (Haad Bhutta)</author>
+      <guid>http://localhost:1313/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Sat, 29 Mar 2025 10:10:11 -0700</pubDate><author>haadbhutta@gmail.com (Haad Bhutta)</author>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metadata</title>
+      <link>http://localhost:1313/tags/metadata/</link>
+      <pubDate>Sat, 29 Mar 2025 10:10:11 -0700</pubDate><author>haadbhutta@gmail.com (Haad Bhutta)</author>
+      <guid>http://localhost:1313/tags/metadata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Toml</title>
+      <link>http://localhost:1313/tags/toml/</link>
+      <pubDate>Sat, 29 Mar 2025 10:10:11 -0700</pubDate><author>haadbhutta@gmail.com (Haad Bhutta)</author>
+      <guid>http://localhost:1313/tags/toml/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

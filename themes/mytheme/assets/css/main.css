@@ -1,0 +1,97 @@
+body {
+  color: var(--text-color);
+  font-family: var(--font-secondary);
+  font-size: var(--font-scale);
+  line-height: 1.5; /* kept */
+  margin: auto; /* margin: 1rem; */
+  text-align: left; /* added */
+  max-width: var(--width);
+  background-color: var(--background-color);
+  padding: 20px;
+}
+
+header {
+  /* border-bottom: 1px solid #222; */
+  margin-top: 1rem;
+  /* background-color: rgb(197, 33, 33); */
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+:root {
+  --width: 700px;
+  --font-main: Verdana, sans-serif;
+  --font-secondary: Verdana, sans-serif;
+  --font-scale: 1em;
+  --background-color: #fff;
+  --heading-color: #222;
+  --text-color: #000000;
+  --link-color: #3273dc;
+  --visited-color: #8b6fcb;
+}
+
+code:not(pre > code) {
+  background-color: #fbf1c7;
+  color: #458588; 
+  padding: 4px;
+  border-radius: 4px;
+}
+
+/* Code Block Styling */
+pre {
+  background-color: #f4f4f4; /* Light grey background for the code block */
+  border: 1px solid #ccc; /* Light border around the code */
+  border-radius: 2px; /* Rounded corners for the block */
+  padding: 20px; /* Padding inside the block */
+  font-family: "Courier New", Courier, monospace; /* Monospace font for code */
+  font-size: 16px; /* Text size */
+  overflow-x: auto; /* Horizontal scroll for long lines */
+  color: #333; /* Text color */
+  line-height: 1.5; /* Line height for readability */
+  word-wrap: break-word; /* Break long words to prevent overflow */
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */ /* Subtle shadow around the block */
+}
+
+/* Syntax Highlighting (optional) */
+pre code {
+  display: block;
+  padding: 0;
+  margin: 0;
+  color: #d6b533; /* Custom color for the text */
+}
+
+/* Add some subtle hover effect */
+pre:hover {
+  /*border-color: #0056b3;*/ /* Blue border on hover */
+  background-color: #e8f4ff; /* Light blue background on hover */
+  cursor: pointer;
+}
+
+footer {
+  margin: auto;
+  padding: 25px 0;
+  text-align: center;
+}
+
+footer > p {
+  font-weight: 200;
+  font-size: small;
+}
+
+.title {
+  text-decoration: none;
+}
+
+time {
+  font-family: monospace;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.blog-title {
+  margin-bottom: 0;  
+  margin-top: 1.5rem;
+}
