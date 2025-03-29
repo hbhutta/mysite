@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/' # The top-level domain for production
+baseURL = 'https://hbhutta.github.io/' # The top-level domain for production
 languageCode = 'en-us' # Language code
 title = "Haad Bhutta's Website" # The title of the website
 author = "Haad Bhutta" 
