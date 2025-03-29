@@ -21,3 +21,8 @@ enableRobotsTXT = true
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+  
+
